@@ -28,4 +28,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5d00a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5d00a8)](https://www.linkedin.com/in/mdemmelo)
 [![Slack](https://img.shields.io/badge/-Slack-000000?style=for-the-badge&logo=slack&logoColor=white&labelColor=000000)](https://cesarschool.slack.com/team/U0AEF16QUHG)
-[![E-mail](https://img.shields.io/badge/-E--mail-5d00a8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5d00a8)](mailto:mmm4@cesar.school)
+[![E-mail](https://img.shields.io/badge/-E--mail-5d00a8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5d00a8)](https://mail.google.com/mail/?view=cm&fs=1&to=mmm4@cesar.school)
